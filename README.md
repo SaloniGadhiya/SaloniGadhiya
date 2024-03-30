@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Saloni Gadhiya
+- ⌨️ I’m interested in Software Devlopment
+- 🌱 I’m currently learning Full-Stack Web Development
+- 🔍 I'm actively seeking internship opportunities where I can further develop my skills, gain valuable industry experience, and make a positive impact.
+- 📫 Feel free to reach out to me via email at gadhiyasaloni@gmail.com or connect with me on LinkedIn www.linkedin.com/in/saloni-gadhiya-8538b2258.
